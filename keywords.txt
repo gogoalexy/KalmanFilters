@@ -1,0 +1,17 @@
+Gaussian	KEYWORD1
+mean	KEYWORD2
+variance	KEYWORD2
+shift	KEYWORD2
+scale	KEYWORD2
+random	KEYWORD2
+
+SimpleSignalGenerator	KEYWORD1
+setNoiseLevel	KEYWORD2
+getNextSignal	KEYWORD2
+resetDynamic	KEYWORD2
+
+AlphaFilter	KEYWORD1
+AlphaBetaFilter	KEYWORD1
+AlphaBetaGammaFilter	KEYWORD1
+update	KEYWORD2
+
